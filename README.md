@@ -63,5 +63,5 @@ This project demonstrates how structured logic and Excel’s built-in tools can 
 - Rebuild using SQL or Python for enhanced automation and modeling
 - Explore machine learning for automated anomaly detection
 
-## 🔗 Project Link
-[🔗 GitHub Repository](https://github.com/srdodson22/Fraud_Risk_Dashboard/excel_fraud_project)
+## Project Link
+[Project Folder](https://github.com/srdodson22/Fraud_Risk_Dashboard/excel_fraud_project)
