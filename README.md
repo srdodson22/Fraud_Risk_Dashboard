@@ -64,4 +64,4 @@ This project demonstrates how structured logic and Excel’s built-in tools can 
 - Explore machine learning for automated anomaly detection
 
 ## Project Link
-[Project Folder](https://github.com/srdodson22/Fraud_Risk_Dashboard/excel_fraud_project)
+[Project Folder](excel_fraud_project)
