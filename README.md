@@ -50,7 +50,6 @@ This project demonstrates how Excel can be utilized to develop a rule-based frau
 ## Key Insights
 - ~6% of transactions were flagged with the highest risk score (5)
 - Wire transactions and late afternoon/early evening activities showed higher risk patterns
-- Slicers enhanced user exploration and decision-making
 
 ## Outcome
 This project demonstrates how structured logic and Excel’s built-in tools can effectively support fraud detection. It highlights my ability to:
